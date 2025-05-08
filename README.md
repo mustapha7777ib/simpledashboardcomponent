@@ -14,4 +14,3 @@ A simple responsive dashboard built with React, HTML, and CSS.
 ```bash
 npm install
 npm run dev
-# simpledashboardcomponent
